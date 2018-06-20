@@ -1,0 +1,1 @@
+Hello {{$username}}. Your token reset password is <b>{{$token}}</b>. Token can only last for 15 minutes
